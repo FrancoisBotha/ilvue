@@ -10,6 +10,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@capacitor/android": "^2.4.6",
+    "@capacitor/cli": "^2.4.6",
+    "@capacitor/core": "^2.4.6",
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "fuse.js": "3.6.1",
